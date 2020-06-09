@@ -1,0 +1,34 @@
+{
+    "name": "DoyQuiz",
+    "title": "Doy Quiz",
+    "description": "Doy quiz plugin that enables to take a quiz and shows the result",
+    "keywords": [
+        "html",
+        "css",
+        "javascript",
+        "jquery"
+    ],
+    "version": "0.1.0",
+    "author": {
+        "name": "Leandro Manuel Guevarra",
+        "url": "https://seoservicesdavao.com"
+    },
+    "maintainers": [
+        {
+            "name": "Leandro Manuel Guevarra",
+            "email": "leandro.guevarra0420@gmail.com",
+            "url": "https://seoservicesdavao.com"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "AMA",
+            "url": "https://github.com/Manuel0420/doyquiz.git/LICENSE.txt"
+        }
+    ],
+    "homepage": "https://github.com/Manuel0420/doyquiz.git",
+    "docs": "https://github.com/Manuel0420/doyquiz.git",
+     "dependencies": {
+        "jquery": ">=1.9"
+    }
+}
